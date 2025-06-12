@@ -50,8 +50,23 @@ Power BI Desktop
 Excel (for data cleaning/preparation)
 
 🚀 How to Use
-Download the .pbix file from this repository
 
-Open it in Power BI Desktop
+Download the following files from this repository:
 
-Use slicers and buttons to explore different views and insights
+.pbix file (Power BI Dashboard)
+
+.csv file (Raw data)
+
+Open the .pbix file using Power BI Desktop.
+
+When prompted or to ensure correct linking:
+
+Go to Home > Transform Data > Data Source Settings
+
+Click Change Source...
+
+Browse and select the downloaded .csv file from your local system
+
+After updating the source, click Refresh to load the latest data into the dashboard.
+
+Use slicers, buttons, and bookmarks to explore different views, filter insights, and interact with the visuals.
