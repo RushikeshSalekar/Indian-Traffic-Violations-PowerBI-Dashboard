@@ -43,3 +43,15 @@ Accident location and time
 Year-wise statistics
 
 📌 Source: (https://www.kaggle.com/)
+
+💻 Tools Used
+Power BI Desktop
+
+Excel (for data cleaning/preparation)
+
+🚀 How to Use
+Download the .pbix file from this repository
+
+Open it in Power BI Desktop
+
+Use slicers and buttons to explore different views and insights
